@@ -38,9 +38,9 @@ task validate {
 
         if [ "~{md5sum}" == "${MD5}" ];
         then
-            echo '{"valid": true, "error_reason": "md5sum mismatch."}' > result.json
+            echo '{"valid": true, "error_reason": "no error. successfully validated."}' > result.json
         else
-            echo '{"valid": false, "error_reason": "no error. successfully validated."}' > result.json
+            echo '{"valid": false, "error_reason": "md5sum mismatch."}' > result.json
         fi
     >>>
 
