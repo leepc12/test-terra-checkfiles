@@ -1,2 +1,2 @@
-file	md5sum	file_type	output_type	valid	error
-test.fastq.gz	XXXXXXXX	read	fastq		
+entity:file_id	file	md5sum	file_type	output_type	valid	error
+1	gs://encode-pipeline-test-samples/encode-atac-seq-pipeline/ENCSR356KRQ/fastq_subsampled/rep2/pair1/ENCFF641SFZ.subsampled.400.fastq.gz	2976d268d837c81bc77bacdbd5b28cbf	read	fastq		
