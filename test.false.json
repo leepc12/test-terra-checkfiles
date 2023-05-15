@@ -1,0 +1,6 @@
+{
+  "checkfiles.file": "gs://encode-pipeline-test-samples/encode-atac-seq-pipeline/ENCSR356KRQ/fastq_subsampled/rep2/pair1/ENCFF641SFZ.subsampled.400.fastq.gz", 
+  "checkfiles.md5sum": "XXXXXXXXXXXXXXXXXxx",
+  "checkfiles.file_type": "read",
+  "checkfiles.output_type": "fastq"
+}
